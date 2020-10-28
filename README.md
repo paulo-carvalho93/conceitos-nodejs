@@ -1,4 +1,4 @@
-# Conceitos Nodejs
+# Node.js Concepts
 Node.js concepts challenge applied for the GoStack Bootcamp
 
 ## :rocket: About the challenge
